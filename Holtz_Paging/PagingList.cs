@@ -2,7 +2,8 @@
 
 namespace Holtz_Paging
 {
-    public class Class1
+    public class PagingList
     {
+
     }
 }
